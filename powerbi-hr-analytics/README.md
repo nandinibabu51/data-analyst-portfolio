@@ -29,4 +29,4 @@ This analysis helps HR teams identify attrition drivers and improve employee ret
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](screenshots/hr_dashboard.png)
+![HR Analytics Dashboard](screenshots/hr analytics.png)
