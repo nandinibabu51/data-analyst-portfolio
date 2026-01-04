@@ -26,6 +26,10 @@ The dataset includes employee information such as:
 
 ## Business Impact
 This analysis helps HR teams identify attrition drivers and improve employee retention strategies.
+## Dashboard Preview
+
+![HR Analytics Dashboard](screenshots/hr_analytics.png)
+
 
 
 
