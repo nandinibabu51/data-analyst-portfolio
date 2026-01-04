@@ -28,3 +28,7 @@ The dataset contains ecommerce transaction data including:
 
 ## Business Impact
 This analysis helps businesses track performance, identify profitable products, and improve sales strategy.
+## Dashboard Preview
+
+![Ecommerce Sales Dashboard](screenshots/ecommerce_dashboard.png)
+
